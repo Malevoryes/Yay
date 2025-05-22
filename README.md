@@ -64,5 +64,3 @@ I'm aiming to build a strong portfolio for entry-level cybersecurity roles, incl
 * Junior Pentester
 * Web Application Security Tester
 
-This repository is part of my public learning log and portfolio.
-
