@@ -66,6 +66,3 @@ I'm aiming to build a strong portfolio for entry-level cybersecurity roles, incl
 
 This repository is part of my public learning log and portfolio.
 
----
-
-Thanks for checking out my journey! If you're on a similar path, feel free to fork this and start your own!
